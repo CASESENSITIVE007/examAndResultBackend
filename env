@@ -1,3 +1,0 @@
-DATABASE_URL=postgresql://neondb_owner:npg_7OFVJoPG5uzy@ep-round-dew-an9oa3qx-pooler.c-6.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
-SECRET_KEY=change-this-to-a-random-secret-key-in-production
-ACCESS_TOKEN_EXPIRE_MINUTES=480
